@@ -25,25 +25,11 @@ I'm an MCA student passionate about exploring emerging technologies and building
 - Machine Learning
 - Intelligent Applications
 
-### 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aslahmk&show_icons=true&theme=tokyonight" />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aslahmk&layout=compact&theme=tokyonight" />
-</p>
-
 ### 🌐 Connect With Me
 
-<p>
 <a href="https://github.com/Aslahmk">
 <img src="https://img.shields.io/badge/GitHub-Aslahmk-181717?style=for-the-badge&logo=github" />
 </a>
-</p>
 
 ---
 
