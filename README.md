@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hey, I'm Ahammed Aslah 👋
 
-<!--
-**Aslahmk/Aslahmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 MCA Student | AI & Agentic AI Enthusiast | Exploring AR
 
-Here are some ideas to get you started:
+I'm an MCA student passionate about exploring emerging technologies and building innovative applications. Interested in the intersection of Artificial Intelligence, Agentic AI, and Augmented Reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Exploring Artificial Intelligence and Generative AI
+- 🧠 Interested in AI Agents and Agentic AI
+- 🥽 Exploring Augmented Reality (AR) and immersive technologies
+- 💻 Interested in Software Development and Problem Solving
+- 🚀 Learning, experimenting, and building new things
+
+### 🛠️ Technologies & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode" />
+</p>
+
+### 🎯 Areas of Interest
+
+- Artificial Intelligence (AI)
+- Agentic AI & Autonomous Agents
+- Generative AI
+- Augmented Reality (AR)
+- Machine Learning
+- Intelligent Applications
+
+### 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aslahmk&show_icons=true&theme=tokyonight" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aslahmk&layout=compact&theme=tokyonight" />
+</p>
+
+### 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/Aslahmk">
+<img src="https://img.shields.io/badge/GitHub-Aslahmk-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Exploring Emerging Technologies. Building What's Next."</i>
+</p>
